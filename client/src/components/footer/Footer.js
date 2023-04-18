@@ -68,7 +68,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className={styles.copyright}>
-                <span>© 2022 Optimal. All Rights Reserved.</span>
+                <span>Developed by Vartika Bhardwaj</span>
             </div>
         </div>
     );
